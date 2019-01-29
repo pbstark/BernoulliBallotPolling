@@ -1,4 +1,4 @@
-# Code for Ottoboni, Bernhard, Halderman, & Stark, 2018
+# Code for Ottoboni, Bernhard, Halderman, Rivest, & Stark, 2018
 #
 
 ## Description of code files
