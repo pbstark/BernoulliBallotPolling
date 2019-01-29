@@ -6,15 +6,14 @@
 ## Modules
 
 * geometric_skipping.py
-* hypergeometric.py
 * sprt.py
 
-## Table 1 - workload for Bernoulli sampling
+## Table 1 - Estimated Bernoulli sampling rates for 5% risk limit
 
 * power-sampling-rates.ipynb
 
-## Table 2 - 2016 Election Simulations
+## Fig 2 - Quantiles of sample sizes by fraction of votes for the winner
 
-* state_level.py
-* state_level_updated.py
+* gen_plot_data.py
+* plot_data.py
 
